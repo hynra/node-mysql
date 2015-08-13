@@ -1,0 +1,11 @@
+{
+  "name": "UVC-LSKK-MYSQL",
+  "version": "0.0.1",
+  "dependencies": {
+   "node-mysql": "*"
+	},
+    "engines": {
+        "node": "0.8.x",
+        "npm": "1.1.x"
+    }
+}
